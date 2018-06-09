@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/7856a76d44f85874953e79c72aa80c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/9f1c27158133587b9f685c358e0b255f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/abe12e9c94b77a9bc4de97ebef8381e2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:2:1-14:12
+MERGED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8778056e29887fe132d4ee3e86cfd3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/36d1a492961d086c06de1fe382698d21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/95ed98ea214fe8cd65a1ce7e3f726644/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d200f626cb143c73580e4c76be0b88a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e00ef5a0b86161d762575c4a07331eac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8f0213e60260a06a4c180072dd50ebe2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f883960af4767ed0df7bf086b176db60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a4dc36286970c43e6a9b4e5a3fe0bf41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ac132258077f65ac183ae3385f421097/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/67cb06cde5cb697c0ec35b25a58856ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a44e4d300a799dc7dc2895e11bafb4c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc444c29957e7688ea1b94a96bd5d9c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1b49a0dfe167b7dea57811052e5c7e69/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b30c23d0c6846441c8ac2b3c27378d5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fca317c44f1680e55ce203dd30366dc0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:7:22-67
+uses-permission#android.permission.CAMERA
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:8:5-65
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:11:5-65
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:9:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:12:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:11:5-60
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:14:5-60
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:12:5-70
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:15:5-70
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:12:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:14:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:17:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:14:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:18:5-68
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:16:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:19:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:17:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:20:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:17:22-78
+application
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:19:5-58:19
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:22:5-29:19
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:22:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/abe12e9c94b77a9bc4de97ebef8381e2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/abe12e9c94b77a9bc4de97ebef8381e2/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:7:5-12:19
+MERGED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:24:5-31:19
+MERGED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:24:5-31:19
+	android:supportsRtl
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.user.comp602_restaurant_mobile_application.MainActivity
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.example.user.comp602_restaurant_mobile_application.paparichmenu
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:33:9-35:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:34:13-41
+activity#com.example.user.comp602_restaurant_mobile_application.Kimchi
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:36:9-38:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:37:13-35
+activity#com.example.user.comp602_restaurant_mobile_application.Cave
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:39:9-41:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:41:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:40:13-33
+activity#com.example.user.comp602_restaurant_mobile_application.COCO
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:42:9-44:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:44:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:43:13-33
+activity#com.example.user.comp602_restaurant_mobile_application.scanQR
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:45:9-47:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:47:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:46:13-35
+activity#com.example.user.comp602_restaurant_mobile_application.generateQR
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:48:9-50:58
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:49:13-39
+activity#com.example.user.comp602_restaurant_mobile_application.SearchViewTest
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:51:9-53:57
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:52:13-43
+activity#com.example.user.comp602_restaurant_mobile_application.DisplayInfor
+ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:parentActivityName
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:56:13-55
+	android:name
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml:55:13-41
+uses-sdk
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/7856a76d44f85874953e79c72aa80c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/7856a76d44f85874953e79c72aa80c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/9f1c27158133587b9f685c358e0b255f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/9f1c27158133587b9f685c358e0b255f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/abe12e9c94b77a9bc4de97ebef8381e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/abe12e9c94b77a9bc4de97ebef8381e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:5:5-44
+MERGED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8778056e29887fe132d4ee3e86cfd3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/8778056e29887fe132d4ee3e86cfd3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/36d1a492961d086c06de1fe382698d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/36d1a492961d086c06de1fe382698d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/95ed98ea214fe8cd65a1ce7e3f726644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/95ed98ea214fe8cd65a1ce7e3f726644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d200f626cb143c73580e4c76be0b88a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d200f626cb143c73580e4c76be0b88a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e00ef5a0b86161d762575c4a07331eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e00ef5a0b86161d762575c4a07331eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8f0213e60260a06a4c180072dd50ebe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8f0213e60260a06a4c180072dd50ebe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f883960af4767ed0df7bf086b176db60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f883960af4767ed0df7bf086b176db60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a4dc36286970c43e6a9b4e5a3fe0bf41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a4dc36286970c43e6a9b4e5a3fe0bf41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ac132258077f65ac183ae3385f421097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ac132258077f65ac183ae3385f421097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/67cb06cde5cb697c0ec35b25a58856ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/67cb06cde5cb697c0ec35b25a58856ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a44e4d300a799dc7dc2895e11bafb4c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a44e4d300a799dc7dc2895e11bafb4c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc444c29957e7688ea1b94a96bd5d9c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc444c29957e7688ea1b94a96bd5d9c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1b49a0dfe167b7dea57811052e5c7e69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1b49a0dfe167b7dea57811052e5c7e69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b30c23d0c6846441c8ac2b3c27378d5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b30c23d0c6846441c8ac2b3c27378d5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fca317c44f1680e55ce203dd30366dc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fca317c44f1680e55ce203dd30366dc0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liangzhiping/Desktop/SDP/app/src/main/AndroidManifest.xml
+activity#com.yzq.zxinglibrary.android.CaptureActivity
+ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:23:9-28:67
+	android:screenOrientation
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:26:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:28:13-64
+	android:configChanges
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.1.6] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/zxing-2.1.6.aar/517e4288a0d61b4ef104ac713fa01023/AndroidManifest.xml:24:13-72
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/c2fdc97b2483de43bf6d4135fb6e3391/AndroidManifest.xml:9:13-64
+activity#com.yanzhenjie.permission.PermissionActivity
+ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:25:9-30:75
+	android:launchMode
+		ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:28:13-42
+	android:windowSoftInputMode
+		ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:30:13-72
+	android:configChanges
+		ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from [com.yanzhenjie:permission:2.0.0-rc4] /Users/liangzhiping/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/6db8da32104380f930548cc0a0cf57fd/AndroidManifest.xml:26:13-72
