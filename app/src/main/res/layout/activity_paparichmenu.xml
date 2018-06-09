@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".paparichmenu">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+
+        android:layout_alignParentTop="true"
+        android:fillViewport="true">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:columnCount="3"
+            android:orientation="horizontal"
+            android:rowCount="5">
+
+            <TextView
+                android:id="@+id/FOOD"
+                android:layout_columnSpan="3"
+                android:layout_gravity="center"
+                android:text="@string/food"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/meal1"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal1"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal2"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal2"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal3"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal3"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/meal4"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal4"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal5"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal5"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal6"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:singleLine="false"
+                android:text="@string/R1_meal6"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton7"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton8"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton9"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/meal7"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal7"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal8"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal8"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal9"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal9"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton10"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton11"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/imageButton12"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_margin="5dp"
+                android:background="#e0000000"
+                android:contentDescription="@string/R1_foodPhoto"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/meal10"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal10"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal11"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal11"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/meal12"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/R1_meal12"
+                android:textSize="12sp"
+                android:singleLine="false"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/Drink"
+                android:layout_columnSpan="3"
+                android:layout_gravity="center"
+                android:text="@string/drink"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/Dessret"
+                android:layout_columnSpan="3"
+                android:layout_gravity="center"
+                android:text="@string/dessert"
+                android:textSize="20sp" />
+        </GridLayout>
+    </ScrollView>
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="@string/sendButton"
+        android:layout_alignParentBottom="true"
+        android:gravity="left"
+        android:id="@+id/send_message1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:layout_alignParentBottom="true"
+            android:gravity="right"
+            android:background="@color/colorPrimary"
+            android:text="Order: $0"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id = "@+id/ordernum"
+            />
+</RelativeLayout>
+
